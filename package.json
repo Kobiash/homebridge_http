@@ -1,0 +1,12 @@
+{
+    "name" : "homebridge_http",
+    "description" : "First homebridge plugin.",
+    "homepage" : "http://nayman.co.il",
+    "keywords" : ["util", "functional", "server", "client", "browser"],
+    "author" : "Kobi Nayman <kobi@nayman.co.il>",
+    "contributors" : [],
+    "dependencies" : [],
+    "repository" : {"type": "git", "url": "https://github.com/Kobiash/homebridge_http.git"},
+    "main" : "index.js",
+    "version" : "1.0.0"
+  }
