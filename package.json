@@ -1,12 +1,26 @@
 {
-    "name" : "homebridge_http",
-    "description" : "First homebridge plugin.",
-    "homepage" : "http://nayman.co.il",
-    "keywords" : ["util", "functional", "server", "client", "browser"],
-    "author" : "Kobi Nayman <kobi@nayman.co.il>",
-    "contributors" : [],
-    "dependencies" : [],
-    "repository" : {"type": "git", "url": "https://github.com/Kobiash/homebridge_http.git"},
-    "main" : "index.js",
-    "version" : "1.0.0"
-  }
+  "name": "homebridge_http",
+  "version": "1.0.0",
+  "description": "just a new one",
+  "main": "index.js",
+  "dependencies": {
+    "homebridge_http": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kobiash/homebridge_http.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Kobi Nayman <kobinayman@gmail.com> (http://nayman.co.il)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kobiash/homebridge_http/issues"
+  },
+  "homepage": "https://github.com/Kobiash/homebridge_http#readme"
+}
