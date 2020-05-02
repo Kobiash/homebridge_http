@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kobiash/homebridge_http.git"
+    "url": "git+https://github.com/Kobiash/homebridge_http"
   },
   "keywords": [
     "none"
